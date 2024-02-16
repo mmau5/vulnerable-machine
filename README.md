@@ -3,17 +3,17 @@
 # Задание 1
 Разрешенные службы: 
 ![1](https://github.com/mmau5/vulnerable-machine/blob/master/meta%20sS.png)
-Обнаруженные уязвимости: RPCBind / libtirpc - Denial of Service
+nmap -sV
+![2](https://github.com/mmau5/vulnerable-machine/blob/master/Screenshot_11.png)
 
-https://www.exploit-db.com/exploits/41974
+Unrealircd
 
-VNC Keyboard - Remote Code Execution (Metasploit)
+https://www.exploit-db.com/exploits/16922
 
-https://www.exploit-db.com/exploits/37598
+vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)
 
-Xorg X11 Server - Local Privilege Escalation (Metasploit)
 
-https://www.exploit-db.com/exploits/47701
+https://www.exploit-db.com/exploits/17491
 
 # Задание 2
 
